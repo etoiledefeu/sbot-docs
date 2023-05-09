@@ -1,6 +1,6 @@
 # sbot-docs
 
-Documentation de Sbot, le bot Discord qui saura améliorer votre serveur !
+Documentation de **Sbot**, le bot Discord qui saura améliorer votre serveur !
 
 Sbot est un bot disposant de multiples fonctions : système de bienvenue/départs, tickets, économie, jeux... 🚀
 Cette documentation aura pour but de mettre des astuces, tutos, ou aides pour Sbot, une FAQ et bien plus ! ✨
