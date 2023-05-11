@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🤖 Documentation Sbot](README.md)
+* [🤖 Acceuil](README.md)
 
 ## ❓ FAQ
 
