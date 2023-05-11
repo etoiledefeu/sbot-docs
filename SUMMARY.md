@@ -8,3 +8,7 @@
 * [💁♂ Questions courantes](faq/questions-courantes.md)
 * [👾 Erreurs courantes](faq/erreurs.md)
 * [Ajouter Sbot à ton serveur](https://top.gg/bot/988866995393024040)
+
+## Group 1
+
+* [Tutos](group-1/tutos.md)
