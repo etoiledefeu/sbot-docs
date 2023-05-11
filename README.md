@@ -1,5 +1,5 @@
 ---
-description: Acceuil de la documenation de Sbot
+description: Acceuil de la documentation de Sbot
 ---
 
 # 🤖 Acceuil
