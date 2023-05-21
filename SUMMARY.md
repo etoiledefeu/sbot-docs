@@ -7,7 +7,7 @@
 * [🏠 F.A.Q](faq/main.md)
 * [💁 Questions courantes](faq/questions-courantes.md)
 * [👾 Erreurs courantes](faq/erreurs.md)
-* [Ajouter Sbot à ton serveur](https://top.gg/bot/988866995393024040)
+* [Ajouter Sbot sur ton serveur](https://top.gg/bot/988866995393024040)
 
 ## Group 1
 
