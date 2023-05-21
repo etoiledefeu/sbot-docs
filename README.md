@@ -4,7 +4,7 @@ description: Acceuil de la documentation de Sbot
 
 # 🤖 Acceuil
 
-## **Sbot**, le bot Discord qui saura améliorer votre serveur !
+## **Sbot**, le bot Discord qui saura améliorer ton serveur !
 
 Sbot est un bot disposant de multiples fonctions : système de bienvenue/départs, tickets, économie, jeux... 🚀
 
