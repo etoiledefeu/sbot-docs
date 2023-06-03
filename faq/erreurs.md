@@ -9,7 +9,7 @@ coverY: 0
 
 # 👾 Erreurs courantes
 
-### Quand peut on dire une que il y a une erreur sur Sbot ?
+### Quand peut on dire que il y a une erreur sur Sbot ?
 
 **Ben tu le vois en fait, si Sbot est online et que tu as un joli message d'erreur, ou bien carrément le combo : "l'application ne répond plus", on peut dire que c'est une erreur.**\
 **Alors, bug ou pas ? Tu le sauras avec cette article**
