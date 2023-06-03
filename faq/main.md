@@ -9,4 +9,4 @@ coverY: 0
 
 # 🏠 F.A.Q
 
-Si tu as tout autre type de question, n'hesite pas à rejoindre le serveur support de Sbot !
+Si tu as tout autre type de question, n'hésite pas à rejoindre le serveur support de Sbot !
