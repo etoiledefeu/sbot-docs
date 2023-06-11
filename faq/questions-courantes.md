@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# 💁♂ Questions courantes
+# 💁 Questions courantes
 
 ### Sbot est-il souvent down ?
 
@@ -15,6 +15,6 @@ Non, SBot a un très fort taux de disponibilité, afin de te rendre service au m
 
 Oui, je fais de mon mieux pour sécuriser un maxium Sbot, ainsi que de préserver un maximum la confidentialitée.\
 Pour consulter sa politique de confidentialité :\
-\> \[clique ici]\(\<https://docs.google.com/document/d/1QZHGmnB2AB6DWMTwLgXpNdEkKGfHd7p5iwH-U1sDy7o>)\
+\> [clique ici](https://docs.google.com/document/d/1QZHGmnB2AB6DWMTwLgXpNdEkKGfHd7p5iwH-U1sDy7o)\
 Et ses conditions d'utilisations :\
-\> \[clique ici]\(\<https://docs.google.com/document/d/1QZHGmnB2AB6DWMTwLgXpNdEkKGfHd7p5iwH-U1sDy7o>)
+\> [clique ici](https://docs.google.com/document/d/1QZHGmnB2AB6DWMTwLgXpNdEkKGfHd7p5iwH-U1sDy7o)
