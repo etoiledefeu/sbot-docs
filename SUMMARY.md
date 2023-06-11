@@ -5,10 +5,13 @@
 ## ❓ FAQ
 
 * [🏠 F.A.Q](faq/main.md)
-* [💁 Questions courantes](faq/questions-courantes.md)
+* [💁♂ Questions courantes](faq/questions-courantes.md)
 * [👾 Erreurs courantes](faq/erreurs.md)
 * [Ajouter Sbot sur ton serveur](https://top.gg/bot/988866995393024040)
 
-## Group 1
+## tutos
 
-* [Tutos](group-1/tutos.md)
+* [Créateur d'embed](tutos/embed/README.md)
+  * [C'est quoi un embed ?](tutos/embed/c-est-quoi.md)
+
+## Group 1
