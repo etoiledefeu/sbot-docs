@@ -50,10 +50,6 @@ Et voilà ! Désormais seuls les rôles et les utilisateurs que tu as sélection
 >
 > **Fais attention : par exemple ne donne pas l'accès de /clear-messages à tous le monde, pour éviter les mauvaises utilisations !**
 
-## Comment réinitialiser les permissions des slashs commandes ?
-
-Si tu souhaites remettre les réglages par défaut pour toutes les slashs de commande de SBot,&#x20;
-
 ## Astuce
 
 > Pour aller plus rapidement, tu peux faire clique droit sur la photo de profil de Sbot puis sur "gérer l'intégration" afin de directement arriver sur le menu des interactions de SBot !
