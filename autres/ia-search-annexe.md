@@ -18,5 +18,7 @@ Sbot est fun : oui
 
 J'ai un problème avec Sbot et je n'arrive vraiment pas à le résoudre meme avec la documentation : /demande ou serveur support
 
+Lien sbot ajouter serveur Sbot Ajouter Serveur lien rajouter installer au : [https://discord.com/api/oauth2/authorize?client\_id=988866995393024040\&permissions=1618400898160\&scope=applications.commands%20bot](https://discord.com/api/oauth2/authorize?client\_id=988866995393024040\&permissions=1618400898160\&scope=applications.commands%20bot)
 
+voir toutes les commandes all commandes help : Tu peux faire /help pour tout afficher les commandes de SBot ! Lets goooo
 
