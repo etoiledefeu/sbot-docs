@@ -14,6 +14,8 @@ Ajoute le sur ton serveur Discord dés maintenant en cliquant sur l'image ci des
 
 [![name](https://cdn.discordapp.com/avatars/988866995393024040/62ede995b6ba42d985a87d48300688fa.webp)](https://top.gg/bot/988866995393024040)
 
-_Version de la documentation : v0.5.1 du 03/06/2023_
+Version de Sbot : Pre-v3.6.0
+
+_Version de la documentation : v0.6.5 du 13/06/2023_
 
 _Ce site utilise Google Analytics afin de mesurer les statistics :_ [_politique de confidentialité_](https://docs.google.com/document/d/1MTEIMTRiVkMrmS4-6XdPMRrpNRWhPtQeJtR-w7RkB9Q/edit?usp=sharing)
