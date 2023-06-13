@@ -14,6 +14,6 @@
 * [Créateur d'embed](tutos/embed/README.md)
   * [C'est quoi un embed ?](tutos/embed/c-est-quoi.md)
 
-## Group 1
+## autres
 
-* [Annexe](group-1/annexe.md)
+* [Annexe](autres/ia-search-annexe.md)

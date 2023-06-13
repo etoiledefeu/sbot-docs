@@ -20,6 +20,8 @@ _**Plusieurs causes sont possibles:**_
 >
 > 2: Un mauvais élément de configuration: par exemple si tu as mis un channel pour le système de niveaux, mais que tu l'as supprimé entre temps (à l'avenir SBot prendra de plus en plus en charge ce genre de bug pour avertir que tu supprime un channel utilisé, mais bon même)
 >
-> 3: Bah...
+> 3: Tu es sous cooldown car tu as abusé de Sbot, attends un peu
+>
+> 4: Bah...
 
 Si y a aucune de ses raisons, merci de le signaler sur le serveur Support ou si t'as pas envie de venir nous voir la commande /demande du bot ! :smile:
