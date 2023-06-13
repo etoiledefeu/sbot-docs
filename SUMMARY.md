@@ -15,3 +15,5 @@
   * [C'est quoi un embed ?](tutos/embed/c-est-quoi.md)
 
 ## Group 1
+
+* [Annexe](group-1/annexe.md)
