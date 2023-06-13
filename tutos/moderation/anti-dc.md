@@ -12,13 +12,13 @@ Afin de bannir ou timeout les arrivants qui sont suspectés d’être des double
 
 \**Exclure temporairement les membres aka modérer les membres\**, \**Bannir les membres\**
 
-Après avoir configurer le système tu pourras adapter ses autorisations au besoin.
+Après avoir configuré le système tu pourras adapter ses autorisations au besoin.
 
 ## 2. Commencer la configuration
 
 Fais la slash commande /moderation de SBot, sélectionne dans le menu "anti doubles comptes", et laisse toi guider par le processus de configuration, c'est très simple et intuitif !
 
-Il y a néanmoins quelques points qui peuvent te poser difficulté, voici à quoi ils servent ! &#x20;
+Il y a néanmoins quelques points qui peuvent te poser difficulté, voici lequels et comment s'y retrouver ! &#x20;
 
 > Lorsque Sbot te demande si il ban le suspecté double compte le temps que ou à vie , voici ce que cela veut dire :&#x20;
 >
