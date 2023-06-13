@@ -2,7 +2,7 @@
 description: Tutoriels sur le créateur d'embed
 ---
 
-# Créateur d'embed
+# 💻 Créateur d'embed
 
 ##
 

@@ -18,3 +18,7 @@ Pour consulter sa politique de confidentialité :\
 \> [clique ici](https://docs.google.com/document/d/1QZHGmnB2AB6DWMTwLgXpNdEkKGfHd7p5iwH-U1sDy7o)\
 Et ses conditions d'utilisations :\
 \> [clique ici](https://docs.google.com/document/d/1QZHGmnB2AB6DWMTwLgXpNdEkKGfHd7p5iwH-U1sDy7o)
+
+### Sbot est il maintenu et mise à jour régulierement ?
+
+Oui !
