@@ -2,7 +2,7 @@
 
 Tu cherches à configurer un système d'anti double compte puissant et fiable ?
 
-Alors tu es au bonne endroit 😎 Sbot a un système anti double comptes personnalisable, qui détecte si les nouveaux arrivants sont des doubles comptes ou pas en fonction des réglages que tu auras mis.
+Alors tu es au bon endroit 😎 Sbot a un système anti double comptes personnalisable, qui détecte si les nouveaux arrivants sont des doubles comptes ou pas en fonction des réglages que tu auras mis.
 
 Pour configurer le système d'anti double comptes, il faut effectuer ses étapes :&#x20;
 
@@ -10,7 +10,7 @@ Pour configurer le système d'anti double comptes, il faut effectuer ses étapes
 
 Afin de bannir ou timeout les arrivants qui sont suspectés d’être des doubles comptes, SBot doit avoir les permissions SINON CELA NE FONCTIONNERA PAS :&#x20;
 
-\*Exclure temporairement les membres aka modérer les membres\*, \*Bannir les membres\*
+\**Exclure temporairement les membres aka modérer les membres\**, \**Bannir les membres\**
 
 Après avoir configurer le système tu pourras adapter ses autorisations au besoin.
 
