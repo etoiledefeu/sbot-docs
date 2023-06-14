@@ -1,5 +1,5 @@
 ---
-description: En cours de construction...
+description: créateur d'embed
 ---
 
 # 🪟 C'est quoi un embed ?
