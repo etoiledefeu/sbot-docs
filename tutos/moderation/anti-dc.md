@@ -22,7 +22,7 @@ Il y a néanmoins quelques points qui peuvent te poser difficulté, voici lequel
 
 > Lorsque Sbot te demande si il ban le suspecté double compte le temps que ou à vie , voici ce que cela veut dire :&#x20;
 >
-> le temps que : SBot timeout le membre suspecté d''etre un dc le temps qu'il ne soit plus considéré comme un double compte
+> le temps que : SBot timeout le membre suspecté d'être un dc le temps qu'il ne soit plus considéré comme un double compte
 >
 > à vie : SBot bannira instantanément le compte suspecté d'être un double compte
 
