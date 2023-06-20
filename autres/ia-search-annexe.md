@@ -6,7 +6,7 @@
 
 Comment créer embed : Sbot a une commande /embed, tu peux regarder un tutoriel sur cette documentation d'ailleurs
 
-Créateur de Sbot : Etoile de Feu#7148
+Créateur de Sbot : @etoile2feu sur Discord
 
 Sbot est en quel langue : Français
 
