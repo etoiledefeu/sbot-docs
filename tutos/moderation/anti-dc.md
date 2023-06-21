@@ -6,6 +6,8 @@ Alors tu es au bon endroit 😎 Sbot a un système anti double comptes personnal
 
 Pour configurer le système d'anti double comptes, il faut effectuer ses étapes :&#x20;
 
+Important: quand je parle de dc, cela signifie double compte.
+
 ## 1. Vérifier que Sbot a les permissions
 
 Afin de bannir ou timeout les arrivants qui sont suspectés d’être des doubles comptes, SBot doit avoir les permissions SINON CELA NE FONCTIONNERA PAS :&#x20;
@@ -20,9 +22,9 @@ Fais la slash commande /moderation de SBot, sélectionne dans le menu "anti doub
 
 Il y a néanmoins quelques points qui peuvent te poser difficulté, voici lequels et comment s'y retrouver ! &#x20;
 
-> Lorsque Sbot te demande si il ban le suspecté double compte le temps que ou à vie , voici ce que cela veut dire :&#x20;
+> Lorsque Sbot te demande si il ban le suspecté dc le temps que ou à vie , voici ce que cela veut dire :&#x20;
 >
-> le temps que : SBot timeout le membre suspecté d'être un dc le temps qu'il ne soit plus considéré comme un double compte
+> le temps que : SBot timeout le membre suspecté d'être un dc le temps qu'il ne soit plus considéré comme un dc
 >
-> à vie : SBot bannira instantanément le compte suspecté d'être un double compte
+> à vie : SBot bannira instantanément le compte suspecté d'être un double compte.
 
