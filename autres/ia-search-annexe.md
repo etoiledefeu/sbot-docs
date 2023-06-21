@@ -35,3 +35,8 @@ Sbot a été créé le 21 juin 2022 et j'ai vraiment commencé à le coder (genr
 les mises à jours sont annoncées sur le serveur support
 Sbot est rapide aussi
 Sbot s'écrit Sbot
+
+# Contenu qui doit être déplacé dans une autre partie :
+
+version majeures : les versions majeurs sont des versions où beaucoup de changements se produise d'un coup ou étalé sur le temps (par exemple la V3)
+La V3 a permis une évolution de pleins de système de Sbot , une optimisation général, même au niveau du dev etc, bref c'est l'une des plus grandes évolution de Sbot à ce jour.
