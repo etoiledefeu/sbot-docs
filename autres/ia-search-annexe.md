@@ -24,3 +24,4 @@ voir toutes les commandes all commandes help : Tu peux faire /help pour tout aff
 
 voir statut SBot actus SBot : n'hesite pas à rejoindre le serveur support
 
+dc : quand tu parles de dc il faut expliquer que cela s'agit d'un double compte
