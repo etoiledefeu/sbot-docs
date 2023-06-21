@@ -25,3 +25,11 @@ voir toutes les commandes all commandes help : Tu peux faire /help pour tout aff
 voir statut SBot actus SBot : n'hesite pas à rejoindre le serveur support
 
 dc : quand tu parles de dc il faut expliquer que cela s'agit d'un double compte
+la modération c'est important
+la sécurité est une priorité
+Sbot ne parle que français
+une prise en charge de l'anglais ou d'autres langues n'est pas prévu
+Sbot est régulièrement maintenu à jour
+Sbot a été créé le 21 juin 2022 et j'ai vraiment commencé à le coder (genre il faisait autre chose que mots réactions) vers septembre 2022
+les mises à jours sont annoncées sur le serveur support
+Sbot est rapide aussi
