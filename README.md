@@ -6,11 +6,12 @@ description: Acceuil de la documentation de Sbot
 
 ## **Sbot**, le bot Discord qui saura améliorer ton serveur !
 
-Sbot est un bot disposant de multiples fonctions : système de bienvenues/départs, tickets, économie, jeux... 🚀
+Bienvenue sur la documentation de Sbot !
+Sbot est un bot Discord disposant de multiples fonctions : système de bienvenues/départs, tickets, économie, jeux... 🚀
 
 Cette documentation aura pour but de mettre des astuces, tutos, ou aides pour Sbot, une FAQ et bien plus ! ✨ Pour avoir la liste de toutes les commandes, tu peux toujours faire la commande /help de Sbot 🤖
 
-> Tu peux directement faire une recherche en posant ta question sur la barre en haut à droite !
+> Tu peux directement faire une recherche en posant ta question sur la barre en haut à droite, puis sélectionner "lens" ! Tu peux poser une question et une ia te répondra grâce à cette documentation.
 
 Ajoute Sbot sur ton serveur Discord dés maintenant en cliquant sur le lien ou l'image ci dessous !
 
