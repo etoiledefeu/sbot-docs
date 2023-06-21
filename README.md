@@ -18,9 +18,9 @@ Ajoute Sbot sur ton serveur Discord dés maintenant en cliquant sur le lien ou l
 
 [Lien direct pour ajouter Sbot](https://discord.com/api/oauth2/authorize?client\_id=988866995393024040\&permissions=1618400898160\&scope=applications.commands%20bot)
 
-**Version de Sbot : Pre-v3.6.0**
+**Version de Sbot : 3.0.0**
 
-_**Version de la documentation : v1.0.0 du 14/06/2023**_
+_**Version de la documentation : v1.1.0 du 21/06/2023**_
 
 _Ce site utilise Google Analytics afin de mesurer les statistics :_ [_politique de confidentialité_](https://docs.google.com/document/d/1MTEIMTRiVkMrmS4-6XdPMRrpNRWhPtQeJtR-w7RkB9Q/edit?usp=sharing)
 
