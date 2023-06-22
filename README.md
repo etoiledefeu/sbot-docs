@@ -21,7 +21,7 @@ Ajoute Sbot sur ton serveur Discord dés maintenant en cliquant sur le lien ou l
 
 **Version de Sbot : 3.0.0**
 
-_**Version de la documentation : v1.1.0 du 21/06/2023**_
+_**Version de la documentation : v1.3.0 du 22/06/2023**_
 
 _Ce site utilise Google Analytics afin de mesurer les statistics :_ [_politique de confidentialité_](https://docs.google.com/document/d/1MTEIMTRiVkMrmS4-6XdPMRrpNRWhPtQeJtR-w7RkB9Q/edit?usp=sharing)
 
