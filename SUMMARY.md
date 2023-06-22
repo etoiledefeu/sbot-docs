@@ -6,7 +6,7 @@
 
 * [💁 Questions courantes](faq/questions-courantes.md)
 * [🤒 Erreurs courantes](faq/erreurs.md)
-* [📈 Versions](faq/versions.md)
+* [📊 Versions](faq/versions.md)
 * [💠 Liste des commandes](faq/cmds.md)
 * [🔗 Ajouter Sbot sur ton serveur](https://top.gg/bot/988866995393024040)
 
@@ -16,8 +16,10 @@
 * [🛡 Modération](tutos/moderation/README.md)
   * [👾 Anti doubles comptes](tutos/moderation/anti-dc.md)
 * [💻 Créateur d'embed](tutos/embed/README.md)
-  * [🪟 C'est quoi un embed ?](tutos/embed/c-est-quoi.md)
-  * [🖱 Créer un embed avec Sbot](tutos/embed/creer.md)
+  * [🪟 1. C'est quoi un embed ?](tutos/embed/c-est-quoi.md)
+  * [🖱 2. Créer un embed avec Sbot](tutos/embed/creer.md)
+* [🔳 3. Composants](tutos/3.-composants.md)
+* [📈 Système de niveau](tutos/systeme-de-niveau.md)
 * [🌏 Explorer](tutos/explorer.md)
 
 ## autres
