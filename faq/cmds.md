@@ -8,8 +8,7 @@ description: Liste des commandes de Sbot
 
 ### Pour voir les commandes en temps réel, fais la commande /help de Sbot.
 
-Les commandes sont actuellement synchronisées avec la **V3.0.0 de Sbot au 22 juin 2023**
-
+Les commandes sont actuellement synchronisées avec la **V3.0.5 de Sbot au 22 juin 2023**
 
 `/8ball`: Jouer à 8ball 🎱
 
@@ -65,7 +64,7 @@ Les commandes sont actuellement synchronisées avec la **V3.0.0 de Sbot au 22 ju
 
 `/demande`: 🙋Faire une demande au créateur du bot/signaler quelque chose🙋
 
-`/deposer-banque`: 🏦Déposer argent à la banque🏦        😂 hein mdr
+`/deposer-banque`: 🏦Déposer argent à la banque🏦 😂 hein mdr
 
 `/des`: 🎲 Faire un lancer de dés 🎲
 
@@ -81,8 +80,7 @@ Les commandes sont actuellement synchronisées avec la **V3.0.0 de Sbot au 22 ju
 
 `/drop-argent`: (economie) Créer un drop de 🪙
 
-`/drop-item`: (economie) Créer un drop d'item
-`/embed`: (beta) Créer un embed
+`/drop-item`: (economie) Créer un drop d'item `/embed`: (beta) Créer un embed
 
 `/enleveritem`: (admin) Enlever un item du shop
 
@@ -90,7 +88,7 @@ Les commandes sont actuellement synchronisées avec la **V3.0.0 de Sbot au 22 ju
 
 `/gerer-item`: Gerer un item
 
-`/help`: Afficher l'aide du bot🧑‍💻 
+`/help`: Afficher l'aide du bot🧑‍💻
 
 `/infos-bot`: Afficher les infos du bot
 
