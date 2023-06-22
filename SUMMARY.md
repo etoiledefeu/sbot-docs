@@ -17,7 +17,7 @@
   * [👾 Anti doubles comptes](tutos/moderation/anti-dc.md)
 * [💻 Créateur d'embed](tutos/embed/README.md)
   * [🪟 C'est quoi un embed ?](tutos/embed/c-est-quoi.md)
-  * [🖱 Créer un embed avec Sbot](tutos/embed/creer-un-embed-avec-sbot.md)
+  * [🖱 Créer un embed avec Sbot](tutos/embed/creer.md)
 * [🌏 Explorer](tutos/explorer.md)
 
 ## autres
