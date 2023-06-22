@@ -18,7 +18,7 @@
 * [💻 Créateur d'embed](tutos/embed/README.md)
   * [🪟 1. C'est quoi un embed ?](tutos/embed/c-est-quoi.md)
   * [🖱 2. Créer un embed avec Sbot](tutos/embed/creer.md)
-* [🔳 3. Composants](tutos/3.-composants.md)
+  * [🔳 3. Composants](tutos/embed/3.-composants.md)
 * [📈 Système de niveau](tutos/systeme-de-niveau.md)
 * [🌏 Explorer](tutos/explorer.md)
 
