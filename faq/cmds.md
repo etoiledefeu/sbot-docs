@@ -9,6 +9,7 @@ description: Liste des commandes de Sbot
 ### Pour voir les commandes en temps réel, fais la commande /help de Sbot.
 
 Les commandes sont actuellement synchronisées avec la **V3.0.0 de Sbot au 22 juin à 08:40**
+ # Page non utilisable actuellement
 
 `/8ball`: Jouer à 8ball 🎱
 `/acheter-shop`: Acheter un item du shop 🛍️
