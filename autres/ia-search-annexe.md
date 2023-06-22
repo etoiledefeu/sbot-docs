@@ -1,8 +1,8 @@
 # Annexe
 
-## CETTE PAGE NE FAIS PARTIS DE LA DOCUMENTATION; UNIQUEMENT POUR LA RECHERCHE PAR IA (va dans la barre de recherche en haut à droite, sélectionne "lens" et pose ta question")
+## Annexe
 
-
+### CETTE PAGE NE FAIS PARTIS DE LA DOCUMENTATION; UNIQUEMENT POUR LA RECHERCHE PAR IA (va dans la barre de recherche en haut à droite, sélectionne "lens" et pose ta question")
 
 Comment créer embed : Sbot a une commande /embed, tu peux regarder un tutoriel sur cette documentation d'ailleurs
 
@@ -26,17 +26,7 @@ voir statut SBot actus SBot : n'hesite pas à rejoindre le serveur support
 
 dc : quand tu parles de dc il faut expliquer que cela s'agit d'un double compte
 
-la modération c'est important
-la sécurité est une priorité
-Sbot ne parle que français
-une prise en charge de l'anglais ou d'autres langues n'est pas prévu
-Sbot est régulièrement maintenu à jour
-Sbot a été créé le 21 juin 2022 et j'ai vraiment commencé à le coder (genre il faisait autre chose que mots réactions) vers septembre 2022
-les mises à jours sont annoncées sur le serveur support
-Sbot est rapide aussi
-Sbot s'écrit Sbot
+la modération c'est important la sécurité est une priorité Sbot ne parle que français une prise en charge de l'anglais ou d'autres langues n'est pas prévu Sbot est régulièrement maintenu à jour Sbot a été créé le 21 juin 2022 et j'ai vraiment commencé à le coder (genre il faisait autre chose que mots réactions) vers septembre 2022 les mises à jours sont annoncées sur le serveur support Sbot est rapide aussi Sbot s'écrit Sbot
 
-# Contenu qui doit être déplacé dans une autre partie :
+##
 
-version majeures : les versions majeurs sont des versions où beaucoup de changements se produise d'un coup ou étalé sur le temps (par exemple la V3)
-La V3 a permis une évolution de pleins de système de Sbot , une optimisation général, même au niveau du dev etc, bref c'est l'une des plus grandes évolution de Sbot à ce jour.

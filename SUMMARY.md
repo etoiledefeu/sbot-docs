@@ -6,6 +6,8 @@
 
 * [💁 Questions courantes](faq/questions-courantes.md)
 * [🤒 Erreurs courantes](faq/erreurs.md)
+* [📈 Versions](faq/versions.md)
+* [💠 Liste des commandes](faq/cmds.md)
 * [🔗 Ajouter Sbot sur ton serveur](https://top.gg/bot/988866995393024040)
 
 ## 💡 tutos
