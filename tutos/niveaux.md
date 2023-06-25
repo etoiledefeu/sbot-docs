@@ -2,11 +2,11 @@
 
 Sbot a un système de niveau performant et personnalisable, que tu peux configurer comme ceci :
 
-#1. Faire la commande /config-level
+## 1. Faire la commande /config-level
 
 Sélectionne activer/modifier pour activer ou modifier la configuration du système de niveau 
 
-#2. Processus de configuration
+## 2. Processus de configuration
 
 > Choisi d'abord des channels tel que #spam, que Sbot ignorera. Par exemple si tu as mis #spam, les membres auront beau envoyer 100 messages sur ce Channel ils ne gagneront pas d'XP. Cela permet d'éviter le farm/l'autodrop d'XP.
 Clique sur ⏩ pour que aucun channel ne soit ignoré.
