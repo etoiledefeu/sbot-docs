@@ -2,7 +2,7 @@
 description: Description des versions de Sbot
 ---
 
-# 📈 Versions
+# 📊 Versions
 
 
 

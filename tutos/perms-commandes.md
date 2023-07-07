@@ -8,13 +8,13 @@ description: >-
 
 Par défaut, Sbot configure automatiquement les permissions des slashs commandes (par exemple tout le monde a accès à /8ball mais seul les personnes ayant la permission gérer les messages ou admin ont accès à /clear-messages). Néanmoins tu peux modifier cela très facilement.
 
-## Il  faut être sur ordinateur ou navigateur
+## Il faut être sur ordinateur ou navigateur
 
-Va dans les paramètres du serveur, puis \*intégrations\*. Tu devrais voir un truc comme ça :&#x20;
+Va dans les paramètres du serveur, puis **intégrations**. Tu devrais voir un truc comme ça :
 
 <figure><img src="../.gitbook/assets/interactions-permissions-1.png" alt="Menu des interactions Discord" width="563"><figcaption><p>Menu des interactions Discord</p></figcaption></figure>
 
-Sélectionne Sbot, tu arriveras sur ce menu :&#x20;
+Sélectionne Sbot, tu arriveras sur ce menu :
 
 <figure><img src="../.gitbook/assets/interactions-permissions-2.png" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@ Ensuite, clique sur enregistrer
 
 Et voilà ! Désormais seuls les rôles et les utilisateurs que tu as sélectionné auront accès à la commande. Tu verras le label "A des dérogations", indiquant que l'opération a réussi.
 
-## Il convient tout de même de noter :&#x20;
+## Il convient tout de même de noter :
 
 > \*\*Les personnes ayant la permissions administrateurs auront toujours la possibilité d'accéder à toutes les commandes\*\*
 >
