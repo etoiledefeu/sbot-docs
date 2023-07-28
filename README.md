@@ -1,8 +1,8 @@
 ---
-description: Acceuil de la documentation de Sbot
+description: Accueil de la documentation de Sbot
 ---
 
-# 🤖 Acceuil
+# 🤖 Accueil
 
 ## **Sbot**, le bot Discord qui saura améliorer ton serveur !
 
