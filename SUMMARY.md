@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🤖 Acceuil](README.md)
+* [🤖 Accueil](README.md)
 
 ## ❓ FAQ
 
