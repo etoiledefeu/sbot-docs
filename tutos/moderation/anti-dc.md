@@ -1,4 +1,4 @@
-# 👾 Anti doubles comptes
+# 👾 Anti double comptes
 
 Tu cherches à configurer un système d'anti double compte puissant et fiable ?
 
