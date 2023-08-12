@@ -1,4 +1,4 @@
-# 👾 Anti doubles comptes
+# 👾 Anti double comptes
 
 Tu cherches à configurer un système d'anti double compte puissant et fiable ?
 
@@ -20,7 +20,7 @@ Après avoir configuré le système tu pourras adapter ses autorisations au beso
 
 Fais la slash commande /moderation de SBot, sélectionne dans le menu "anti doubles comptes", et laisse toi guider par le processus de configuration, c'est très simple et intuitif !
 
-Il y a néanmoins quelques points qui peuvent te poser difficulté, voici lequels et comment s'y retrouver ! &#x20;
+Il y a néanmoins quelques points qui peuvent poser difficultée, voici lequels et comment s'y retrouver ! &#x20;
 
 > Lorsque Sbot te demande si il ban le suspecté dc le temps que ou à vie , voici ce que cela veut dire :&#x20;
 >
