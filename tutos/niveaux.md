@@ -13,6 +13,8 @@ Si tu veux désactiver le système de niveau, sélectionne désactiver.
 
 > Sélectionne ensuite le channel où Sbot enverra les messages de level UP. Si tu souhaites qu'il l'envoie sur le channel où le membre a envoyé le message (vérifie que Sbot a la permission sur le channel en question !) clique sur ⏩.
 
+> Dernière étape, la configuration du ping : si tu veux que SBot te ping quand tu augmente de niveau ou pas
+
 Tu peux faire /modifier-xp pour modifier l'xp d'un membre (pour enlever 10 xp par exemple -10, et en ajouter 10 xp bah 10)
 
 C'est fini ! 😎🎉 Te voilà avec un système de niveau performant pour ton serveur Discord.
