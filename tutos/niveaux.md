@@ -15,6 +15,6 @@ Si tu veux désactiver le système de niveau, sélectionne désactiver.
 
 > Dernière étape, la configuration du ping : si tu veux que SBot te ping quand tu ou qqun augmenteras de niveau ou pas
 
-Tu peux faire /modifier-xp pour modifier l'xp d'un membre (pour enlever 10 xp par exemple -10, et en ajouter 10 xp bah 10)
+Astuce : Tu peux faire /modifier-xp pour modifier l'xp d'un membre (pour enlever 10 xp par exemple -10, et en ajouter 10 xp du coup 10)
 
 C'est fini ! 😎🎉 Te voilà avec un système de niveau performant pour ton serveur Discord.
