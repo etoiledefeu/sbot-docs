@@ -12,7 +12,7 @@ Cette documentation a pour but de mettre des astuces, tutos, ou aides pour Sbot,
 
 > Tu peux directement faire une recherche en posant ta question sur la barre en haut à droite, puis sélectionner "lens" ! Tu peux poser une question et une ia te répondra grâce à cette documentation.
 
-Ajoute Sbot sur ton serveur Discord dés maintenant en cliquant sur le lien ou l'image ci dessous !
+Ajoute Sbot sur ton serveur Discord dès maintenant en cliquant sur le lien ou l'image ci dessous !
 
 [![name](https://cdn.discordapp.com/avatars/988866995393024040/62ede995b6ba42d985a87d48300688fa.webp)](https://top.gg/bot/988866995393024040)
 
@@ -21,6 +21,7 @@ Ajoute Sbot sur ton serveur Discord dés maintenant en cliquant sur le lien ou l
 **Version de Sbot : 3.1.5**
 
 _**Version de la documentation : v1.3.0 du 22/06/2023**_
+
 **Dernière mise à jour : Octobre 2023**
 
 _Ce site utilise Google Analytics afin de mesurer les statistiques :_ [_politique de confidentialité_](https://docs.google.com/document/d/1MTEIMTRiVkMrmS4-6XdPMRrpNRWhPtQeJtR-w7RkB9Q/edit?usp=sharing)
