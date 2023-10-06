@@ -11,9 +11,9 @@ coverY: 0
 
 ### Quand peut on dire que il y a une erreur sur Sbot ?
 
-**Ben tu le vois en fait, si Sbot est online et que tu as un joli message d'erreur, ou bien carrément le combo : "l'application ne répond plus", on peut dire que c'est une erreur.**\
-**Alors, bug ou pas ? Tu le sauras avec cette article**
-
+**Et bien si Sbot est online et que tu as un joli message d'erreur, ou bien carrément le combo : "l'application ne répond plus", on peut dire que c'est une erreur.**\
+**Alors, bug ou pas ?**
+Pour le savoir, check avant les: 
 _**Plusieurs causes sont possibles:**_
 
 > 1: Le manque de permissions de Sbot (exemple si tu fais la commande /timeout, Sbot devra avoir la permission de timeout les membres sur ton serveur); tu peux modifier cela en me donnant les bonnes permissions
@@ -22,6 +22,6 @@ _**Plusieurs causes sont possibles:**_
 >
 > 3: Tu es sous cooldown car tu as abusé de Sbot, attends un peu
 >
-> 4: Bah...
+> 4: Bah... c'est sûrement un bug
 
 Si y a aucune de ses raisons, merci de le signaler sur le serveur Support ou si t'as pas envie de venir nous voir la commande /demande du bot ! :smile:
