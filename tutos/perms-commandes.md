@@ -8,6 +8,8 @@ description: >-
 
 Par défaut, Sbot configure automatiquement les permissions des slashs commandes (par exemple tout le monde a accès à /8ball mais seul les personnes ayant la permission gérer les messages ou admin ont accès à /clear-messages). Néanmoins tu peux modifier cela très facilement.
 
+\*CE TUTO MARCHE AVEC TOUS LES BOTS EN SLASHS COMMANDES, ET PAS SEULEMENT SBOT !\*
+
 ## Il faut être sur ordinateur ou navigateur
 
 Va dans les paramètres du serveur, puis **intégrations**. Tu devrais voir un truc comme ça :

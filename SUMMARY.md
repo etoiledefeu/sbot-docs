@@ -19,6 +19,7 @@
   * [🖱 2. Créer un embed avec Sbot](tutos/embed/creer.md)
   * [🔳 3. Composants](tutos/embed/composants.md)
 * [📈 Système de niveau](tutos/niveaux.md)
+* [💬 Les mots reacts](tutos/les-mots-reacts.md)
 * [🌏 Explorer](tutos/explorer.md)
 
 ## autres
